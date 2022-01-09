@@ -1,7 +1,13 @@
+Hello! My name is Linda Markó and ..
+
+
+- 🎓 I’m currently studying JavaScript development at IT Högskola in Stockholm.
+- 👩‍💻 I’m currently learning Vue.js and React.
+- 📧 How to reach me: lindamarko.dev@gmail.com 
 
 
 
-Work in progress..
+Skills: JavaScript | HTML | CSS | Vue.js | React
 
 <!--
 **LindaMarko/LindaMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
