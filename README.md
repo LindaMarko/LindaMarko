@@ -1,4 +1,4 @@
-Hello! My name is Linda Markó and ..
+# Hello and welcome!🙂
 
 
 - 🎓 I’m currently studying JavaScript development at IT Högskola in Stockholm.
