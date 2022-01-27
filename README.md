@@ -1,4 +1,4 @@
-# Hello and welcome!🙂
+# Hello and welcome!
 
 
 - 🎓 I’m studying JavaScript development at IT Högskola in Stockholm.
