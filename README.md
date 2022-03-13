@@ -2,7 +2,7 @@
 
 
 - 🎓 I’m studying JavaScript development at IT Högskola in Stockholm.
-- 👩‍💻 I’m currently learning Vue.js and React.
+- 👩‍💻 I’m currently learning Node.js and Express.
 - 📧 How to reach me: lindamarko.dev@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
