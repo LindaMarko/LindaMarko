@@ -15,8 +15,8 @@ Courses:
 4. JavaScript Frameworks (Vue.js) ✔
 5. Agile Development ✔
 6. Backend programming and databases (Node.js) ✔
-7. Cross-platform development (React, PWA)
-8. **Internship 1 (29 August–16 Oct 2022)**
+7. Cross-platform development (React, PWA) ✔
+8. **Internship 1 (29 August–16 Oct 2022)** => Vaimo - https://www.vaimo.com/
 9. Software Life Cycle Management
 10. Design principles and patterns
 11. **Internship 2 (10 Jan–25 April 2023)**
