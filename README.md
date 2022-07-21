@@ -1,12 +1,12 @@
 # Hello and welcome!
 
 
-- 🎓 I’m studying JavaScript development at IT Högskola in Stockholm.
-- 👩‍💻 I’m currently learning React.
+- 🎓 I’m studying Web/JavaScript development at IT Högskola in Stockholm.
+- 👩‍💻 I’m currently preparing for my internship and learning PHP and Laravel.
 - 📧 How to reach me: lindamarko.dev@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
-#### Skills: JavaScript, HTML, CSS, Vue.js, Node.js, Express, SQL, MongoDB, Git, GitHub, Figma, Agile Development and more to come..
+#### Skills: JavaScript, HTML, CSS, Vue.js, React, Node.js, Express, SQL, MongoDB, Git, GitHub, Figma, Agile Development and more to come..
 
 Courses:
 1. HTML and CSS ✔
