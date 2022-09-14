@@ -2,11 +2,11 @@
 
 
 - 🎓 I’m studying Web/JavaScript development at IT Högskola in Stockholm.
-- 👩‍💻 I’m currently preparing for my internship and learning PHP and Laravel.
+- 👩‍💻 I’m currently doing my internship at Vaimo and learning Magento 2 (Adobe Ecommerce).
 - 📧 How to reach me: lindamarko.dev@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
-#### Skills: JavaScript, HTML, CSS, Vue.js, React, Node.js, Express, SQL, MongoDB, Git, GitHub, Figma, Agile Development and more to come..
+#### Skills: JavaScript, HTML, CSS, Vue.js, React, Node.js, Express, SQL, MongoDB, PHP, Laravel, Git, GitHub, Figma, Agile Development and more to come..
 
 Courses:
 1. HTML and CSS ✔
