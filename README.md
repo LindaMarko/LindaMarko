@@ -1,12 +1,12 @@
 # Hello and welcome!
 
 
-- 🎓 I’m studying Web/JavaScript development at IT Högskola in Stockholm.
-- 👩‍💻 I’m currently doing my internship at Vaimo.
+- 👩‍💻 I’m currently working as a Junior Frontend Developer at Vaimo.
+- 🎓 I studied JavaScript development at IT Högskola in Stockholm (2021-2023).
 - 📧 How to reach me: lindamarko.dev@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
-#### Skills: JavaScript, HTML, CSS, Vue.js, React, Node.js, Express, SQL, MongoDB, PHP, Laravel, Git, GitHub, Figma, Agile Development and more to come..
+#### Skills: JavaScript, HTML, CSS, Vue.js, React, Next.js Node.js, Express, MongoDB, PHP, Laravel, Magento 2, Git, GitHub, Bitbucket, Figma, Agile Development and more to come..
 
 
 <!--
