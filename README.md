@@ -6,7 +6,7 @@
 - 📧 How to reach me: lindamarko.dev@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
-#### Skills: JavaScript, HTML, CSS, Vue.js, React, Next.js Node.js, Express, MongoDB, PHP, Laravel, Magento 2, Git, GitHub, Bitbucket, Figma, Agile Development and more to come..
+#### Skills: JavaScript, HTML, CSS, React, Next.js, TypeScript, Vue.js, Tailwind CSS, Responsive Design, UI Design, Figma, Node.js, Express, MongoDB, Git, GitHub, Bitbucket, Agile Development and more to come..
 
 
 <!--
