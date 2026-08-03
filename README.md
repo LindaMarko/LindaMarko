@@ -1,12 +1,8 @@
 # Hello and welcome!
 
-
-- 👩‍💻 I’m currently working as a Junior Frontend Developer at Vaimo.
-- 🎓 I studied JavaScript development at IT Högskola in Stockholm (2021-2023).
-- 📧 How to reach me: lindamarko.dev@gmail.com 
+- 📧 How to reach me: lindamarko.design@gmail.com 
 - 💻 LinkedIn: https://www.linkedin.com/in/linda-marko/
 
-#### Skills: JavaScript, HTML, CSS, React, Next.js, TypeScript, Vue.js, Tailwind CSS, Responsive Design, UI Design, Figma, Node.js, Express, MongoDB, Git, GitHub, Bitbucket, Agile Development and more to come..
 
 
 <!--
